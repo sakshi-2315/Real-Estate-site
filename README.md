@@ -1,7 +1,3 @@
-Certainly! Here's a template for a GitHub README for your HTML & CSS real estate page project:
-
----
-
 # Real Estate Page Project
 
 Welcome to the Real Estate Page project! This project is a simple web page designed using HTML and CSS to showcase a real estate listing. Whether you're a beginner looking to practice your HTML and CSS skills or someone interested in real estate web development, this project is a great starting point.
